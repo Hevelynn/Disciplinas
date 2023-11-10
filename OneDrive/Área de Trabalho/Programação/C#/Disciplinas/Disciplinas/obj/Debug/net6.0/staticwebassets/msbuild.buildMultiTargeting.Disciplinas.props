@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Disciplinas.props" />
+</Project>
